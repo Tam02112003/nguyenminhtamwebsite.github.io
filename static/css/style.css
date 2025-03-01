@@ -1,0 +1,20 @@
+body{
+    
+    background-color: #f0f0f0;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    padding: 20px;
+}
+h1 {
+    color: red;
+}
+h2 {
+    color: blue;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+    
+}
